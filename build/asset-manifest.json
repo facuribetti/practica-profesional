@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/practica-profesional/static/css/main.caac77f7.css",
+    "main.js": "/practica-profesional/static/js/main.edb8389d.js",
+    "static/js/787.4000b14e.chunk.js": "/practica-profesional/static/js/787.4000b14e.chunk.js",
+    "static/media/Proyecto-principal.png": "/practica-profesional/static/media/Proyecto-principal.d82a9ade265728417f17.png",
+    "static/media/Proyecto-carrito.png": "/practica-profesional/static/media/Proyecto-carrito.404cd6bdedfa48fe86e5.png",
+    "static/media/Logo_de_la_Universidad_Siglo_21.svg.png": "/practica-profesional/static/media/Logo_de_la_Universidad_Siglo_21.svg.b010d47e0547013c6cdb.png",
+    "static/media/Proyecto-registro.png": "/practica-profesional/static/media/Proyecto-registro.87fa350415978f42e9ce.png",
+    "static/media/React_logo.png": "/practica-profesional/static/media/React_logo.d25b9efdaa47a8e970be.png",
+    "static/media/spring-boot-logo.png": "/practica-profesional/static/media/spring-boot-logo.7f34ee5e9541865ced65.png",
+    "index.html": "/practica-profesional/index.html",
+    "main.caac77f7.css.map": "/practica-profesional/static/css/main.caac77f7.css.map",
+    "main.edb8389d.js.map": "/practica-profesional/static/js/main.edb8389d.js.map",
+    "787.4000b14e.chunk.js.map": "/practica-profesional/static/js/787.4000b14e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caac77f7.css",
+    "static/js/main.edb8389d.js"
+  ]
+}
