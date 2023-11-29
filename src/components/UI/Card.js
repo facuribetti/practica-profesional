@@ -16,7 +16,10 @@ const Card = ({ title, content, image, pageLink }) => {
           </a>
         ) : null}
       </div>
-      {content ? <p>{content}</p> : null}
+      <div className={classes.content}>
+        {content ? <p>{content}</p> : null}
+      </div>
+      
     </div>
   );
 };
