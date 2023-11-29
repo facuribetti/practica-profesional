@@ -29,7 +29,8 @@
 }
 
 .imagen {
-  width: 100%;
+  width: 75%;
+  border-radius: 20px;
 }
 
 .homepage .technologies {
