@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/practica-profesional/static/css/main.d1ab0327.css",
+    "main.css": "/practica-profesional/static/css/main.205ddd9b.css",
     "main.js": "/practica-profesional/static/js/main.7a7652b1.js",
     "static/js/787.4000b14e.chunk.js": "/practica-profesional/static/js/787.4000b14e.chunk.js",
     "static/media/youtrack.png": "/practica-profesional/static/media/youtrack.e92cc04f18a13df6b77f.png",
@@ -12,12 +12,12 @@
     "static/media/React_logo.png": "/practica-profesional/static/media/React_logo.d25b9efdaa47a8e970be.png",
     "static/media/spring-boot-logo.png": "/practica-profesional/static/media/spring-boot-logo.7f34ee5e9541865ced65.png",
     "index.html": "/practica-profesional/index.html",
-    "main.d1ab0327.css.map": "/practica-profesional/static/css/main.d1ab0327.css.map",
+    "main.205ddd9b.css.map": "/practica-profesional/static/css/main.205ddd9b.css.map",
     "main.7a7652b1.js.map": "/practica-profesional/static/js/main.7a7652b1.js.map",
     "787.4000b14e.chunk.js.map": "/practica-profesional/static/js/787.4000b14e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1ab0327.css",
+    "static/css/main.205ddd9b.css",
     "static/js/main.7a7652b1.js"
   ]
 }
